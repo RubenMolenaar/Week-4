@@ -1,0 +1,45 @@
+.Maintext{
+	background-color: #1D1B1B;
+	margin-left: 60px;
+	margin-right: 60px;
+	padding: 20px 60px 5% 60px;
+	border: solid 1px #EC4D37;
+} 
+
+.Container {
+	background-color: #1D1B1B;
+}
+
+.blin{
+	color:#EC4D37;
+}
+
+h1 {
+	color: #EC4D37;
+}
+h2 {
+	color: #EC4D37
+}
+h3 {
+	margin-top: -10px;
+	color: #FFF
+}
+a {
+	margin-top: 20px;
+	margin-bottom:40px;
+	margin-left: 20px;
+	border: solid 1px #EC4D37;
+	padding: 10px 40px 10px 40px;
+	text-decoration: none;
+	color: #FFF;
+}
+a:hover {
+	background-color: #4a4a49;
+}
+img{
+	width: 70%;
+	padding-bottom: 3%;
+	padding: 3%;
+
+	border: solid 1px #EC4D37;
+}
